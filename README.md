@@ -1,4 +1,4 @@
-# Bike self-service real time station notifier
+# Self-service bike real time station notifier
 ESP-12E connected to an MQTT broker and listening to a python bot streaming the station data.
 
 ## Installation
